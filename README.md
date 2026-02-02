@@ -43,9 +43,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,docker,aws,git" />
 </p>
 
-> ✅ `skillicons.dev` automatically handles **dark & light mode**  
-> No invisible icons anymore.
-
 ---
 
 ## 📌 Featured Projects
@@ -66,15 +63,15 @@ A college prediction platform using historical cutoff data
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay67&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay67&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmay67&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
