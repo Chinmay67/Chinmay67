@@ -38,9 +38,19 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
 </p>
 
-### Frontend & Tools
+### Infrastructure & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,firebase" />
+</p>
+
+### Frontend (when needed)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+### Tooling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ---
@@ -63,8 +73,8 @@ A college prediction platform using historical cutoff data
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay67&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay67&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay67&show_icons=true&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay67&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -77,9 +87,10 @@ A college prediction platform using historical cutoff data
 ---
 
 ## 🎯 Currently Interested In
-- Backend-heavy MERN systems  
-- Search, indexing & performance tuning  
-- Distributed systems & LLM-integrated workflows  
+- Backend architecture & distributed systems  
+- Database internals, indexing & performance tuning  
+- Blockchain fundamentals & crypto systems  
+- LLM-integrated workflows & system design  
 
 ---
 
