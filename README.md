@@ -2,7 +2,7 @@
 <h3 align="center">Backend-focused Full Stack Developer</h3>
 
 <p align="center">
-  <a href="mailto:"singhchinmay207@gmail.com">
+  <a href="mailto:singhchinmay207@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/chinmay-singh-4092b0253">
@@ -20,9 +20,18 @@
 ---
 
 ## 🚀 About Me
-- Backend-oriented engineer who enjoys **scalable systems & clean APIs**
-- Strong focus on **databases, auth, performance, and system design**
-- Comfortable working across **MERN + SQL stacks**
+- Full-stack engineer with a strong backend core, comfortable owning features **end to end** — from API design and database modeling to frontend integration and deployment
+- Strong command over **TypeScript** across backend and frontend for building reliable, type-safe systems
+- Enjoy working on **scalable architectures**, clean abstractions, and performance-sensitive systems
+- Thoughtful about trade-offs, readability, and long-term maintainability — not just making things work
+- Comfortable collaborating, debugging production issues, and iterating quickly based on real-world feedback
+
+---
+
+## 🧭 How I Work
+- Prefer simple, well-structured solutions over over-engineering
+- Care about correctness, edge cases, and clear interfaces
+- Like understanding the *why* behind systems, not just the *how*
 
 ---
 
@@ -59,6 +68,7 @@
 
 ### 🎥 StreamZone
 A video-sharing platform with authentication, uploads, analytics, and interactions  
+-Backend-driven architecture with a clean API layer
 - JWT-based authentication  
 - Cloudinary + Multer for media handling  
 - MongoDB aggregation for insights  
@@ -67,15 +77,10 @@ A video-sharing platform with authentication, uploads, analytics, and interactio
 A college prediction platform using historical cutoff data  
 - Rank, quota & domicile-based analysis  
 - Backend-heavy MERN architecture  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chinmay67&show_icons=true&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay67&layout=compact&hide_border=true&cache_seconds=1800" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Chinmay67&show_icons=true&hide_border=true&cache_seconds=1800" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay67&layout=compact&hide_border=true&cache_seconds=1800" /> -->
+<!-- </p> -->
 
 ---
 
