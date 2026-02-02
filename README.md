@@ -1,66 +1,91 @@
-Hi, I'm Chinmay 👋  
-A backend-focused full-stack developer who enjoys building scalable systems, clean APIs, and data-driven features.
+<h1 align="center">Hi 👋, I'm Chinmay Singh</h1>
+<h3 align="center">Backend-focused Full Stack Developer</h3>
 
-📧 Email: [chinmaysingh.email@example.com](mailto:chinmaysingh.email@example.com)  
-🔗 LinkedIn: [linkedin.com/in/chinmay-singh](https://www.linkedin.com/in/chinmay-singh)  
-💻 GitHub: [github.com/your-username](https://github.com/your-username)  
-📞 Phone: +91 8287962703
+<p align="center">
+  <a href="mailto:"singhchinmay207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chinmay-singh-4092b0253">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Chinmay67">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
----
-
-### 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="30"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-### 🔍 Focus Areas
-- Backend architecture & REST APIs  
-- Database design & query optimization  
-- Authentication & authorization (JWT-based systems)  
-- Scalable data-driven applications  
+## 🚀 About Me
+- Backend-oriented engineer who enjoys **scalable systems & clean APIs**
+- Strong focus on **databases, auth, performance, and system design**
+- Comfortable working across **MERN + SQL stacks**
 
 ---
 
-### 🚀 Selected Projects
+## 🛠 Tech Stack
 
-**StreamZone**  
-A video-sharing platform with authentication, media uploads, analytics, and interaction features.  
-- JWT-based auth, role-aware APIs  
-- Cloudinary + Multer for scalable uploads  
-- MongoDB aggregations for insights  
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
+</p>
 
-**UniFind**  
-A college predictor platform using historical cutoff data.  
-- Backend APIs for rank-based predictions  
-- Rule-based analysis for quota & domicile  
+### Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+</p>
+
+### Frontend & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,aws,git" />
+</p>
+
+> ✅ `skillicons.dev` automatically handles **dark & light mode**  
+> No invisible icons anymore.
 
 ---
 
-### 🎯 Currently Interested In
+## 📌 Featured Projects
+
+### 🎥 StreamZone
+A video-sharing platform with authentication, uploads, analytics, and interactions  
+- JWT-based authentication  
+- Cloudinary + Multer for media handling  
+- MongoDB aggregation for insights  
+
+### 🎓 UniFind
+A college prediction platform using historical cutoff data  
+- Rank, quota & domicile-based analysis  
+- Backend-heavy MERN architecture  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Currently Interested In
 - Backend-heavy MERN systems  
-- Search, indexing, and performance tuning  
+- Search, indexing & performance tuning  
 - Distributed systems & LLM-integrated workflows  
 
 ---
 
-### 📚 Education
-Bachelor of Technology (Computer Science)  
-Expected 2026
-
----
-
-Feel free to explore my repositories or reach out if something catches your interest.
+<p align="center">
+  <i>“Build things that scale, then make them simple.”</i>
+</p>
